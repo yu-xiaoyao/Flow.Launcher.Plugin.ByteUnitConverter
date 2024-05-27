@@ -1,12 +1,12 @@
 {
-    "ID": "5672D8F1A8274A0D9B88AB4F23119ED6",
-    "ActionKeyword": "buc",
-    "Name": "ByteUnitConverter",
-    "Description": "字节单位转换工具",
-    "Author": "yu-xiaoyao",
-    "Version": "1.0.0",
-    "Language": "csharp",
-    "Website": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.ByteUnitConverter",
-    "IcoPath": "icon.png",
-    "ExecuteFileName": "Flow.Launcher.Plugin.ByteUnitConverter.dll"
+  "ID": "5672D8F1A8274A0D9B88AB4F23119ED6",
+  "ActionKeyword": "buc",
+  "Name": "ByteUnitConverter",
+  "Description": "字节单位转换工具",
+  "Author": "yu-xiaoyao",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/yu-xiaoyao/Flow.Launcher.Plugin.ByteUnitConverter",
+  "IcoPath": "Images/byte-unit-converter.png",
+  "ExecuteFileName": "Flow.Launcher.Plugin.ByteUnitConverter.dll"
 }
