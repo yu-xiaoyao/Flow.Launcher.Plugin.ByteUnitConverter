@@ -266,12 +266,12 @@ namespace Flow.Launcher.Plugin.ByteUnitConverter
 
         public string GetTranslatedPluginTitle()
         {
-            return _context.API.GetTranslation("plugin_title");
+            return _context.API.GetTranslation("byte_unit_conveter_plugin_title");
         }
 
         public string GetTranslatedPluginDescription()
         {
-            return _context.API.GetTranslation("plugin_desp");
+            return _context.API.GetTranslation("byte_unit_conveter_plugin_desp");
         }
     }
 }
